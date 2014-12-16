@@ -44,4 +44,4 @@ var server = http.createServer(function (req, res) {
 	}
 	res.end(str);
 });
-server.listen(shoshanah.princesspeach.nyc);
+server.listen("http://shoshanah.princesspeach.nyc");
